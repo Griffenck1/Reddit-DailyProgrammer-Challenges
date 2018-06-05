@@ -1,0 +1,5 @@
+Challenge can be found at https://www.reddit.com/r/dailyprogrammer/comments/3qjnil/20151028_challenge_238_intermediate_fallout/
+
+Essentially the purpose of this challenge is to create a word matching game like that found when hacking in fallout.
+You get a set number of words of a set length depending on the difficulty and when you guess a word the game tells you
+how many positions you got correct until you guess the correct word or run out of tries.
