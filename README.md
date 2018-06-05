@@ -1,2 +1,3 @@
 # Reddit-DailyProgrammer-Challenges
-My solutions to short r/DailyProgrammer challenges.
+
+These are my solutions to r/DailyProgrammer challenges. These Challenges tend to be short and have varying levels of difficulty.
