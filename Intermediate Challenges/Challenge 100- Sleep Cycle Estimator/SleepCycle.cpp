@@ -58,7 +58,7 @@ std::string* returnAcceptableTimes(std::string time)
 
 	for(int i = 0; i < 5; i++)
 	{
-		float minElapsed = 270 + (60* (float) i);
+		float minElapsed = 270 + (90* (float) i);
 		float hrElapsed = minElapsed/60;
 
 		std::string hrElapsedString = std::to_string(hrElapsed);
